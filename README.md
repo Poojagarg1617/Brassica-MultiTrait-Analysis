@@ -1,10 +1,13 @@
-# MGIDI and Genomic Data Analysis in Brassica
+## Repository Structure
+
+- `phenotypic_analysis/` – MGIDI and PCA-based multi-trait analysis
+- `genomic_analysis/` – SNP filtering and VCF preprocessing# MGIDI and Genomic Data Analysis in Brassica
 
 This repository contains R scripts for integrative analysis of phenotypic and genomic data in Brassica. The workflows focus on multi-trait genotype evaluation and SNP data preprocessing, supporting downstream breeding and genomics studies.
 
 ## Overview
 
-This repository includes two main analytical workflows:
+The repository includes two main analytical workflows:
 
 ### 1. Multi-Trait Genotype Evaluation (MGIDI + PCA)
 - Computes the Multi-trait Genotype-Ideotype Distance Index (MGIDI) for genotype selection
